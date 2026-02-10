@@ -16,7 +16,7 @@ export const flowersData = [
       match: '适合搭配绿色植物或浅色系花卉，如白玫瑰、勿忘我，营造清新高雅的氛围。'
     },
     images: [
-     'assets/images/flowers/white-tower-peony1.jpg'
+     '/assets/images/flowers/white-tower-peony1.jpg'
     ]
   },
   {
@@ -36,8 +36,8 @@ export const flowersData = [
       match: '适合与绿色观叶植物搭配，如龟背竹、绿萝，增添热带气息。'
     },
     images: [
-      'assets/images/flowers/large-swallow1.jpg',
-      'assets/images/flowers/large-swallow2.jpg'
+      '/assets/images/flowers/large-swallow1.jpg',
+      '/assets/images/flowers/large-swallow2.jpg'
     ]
   },
   {
@@ -57,7 +57,7 @@ export const flowersData = [
       match: '适合与樱花、桃花搭配，营造浪漫的春季氛围。'
     },
     images: [
-     'assets/images/flowers/azalea1.jpg'
+     '/assets/images/flowers/azalea1.jpg'
     ]
   },
   {
@@ -77,7 +77,7 @@ export const flowersData = [
       match: '适合与薰衣草、迷迭香搭配，营造宁静的氛围。'
     },
     images: [
-      'assets/images/flowers/campanula1.jpg'
+      '/assets/images/flowers/campanula1.jpg'
     ]
   },
   {
@@ -97,7 +97,7 @@ export const flowersData = [
       match: '适合与红色或黄色花卉搭配，如向日葵、非洲菊，营造热烈的氛围。'
     },
     images: [
-      'assets/images/flowers/phoenix-feather1.jpg'
+      '/assets/images/flowers/phoenix-feather1.jpg'
     ]
   },
   {
@@ -117,8 +117,8 @@ export const flowersData = [
       match: '适合与满天星、尤加利叶搭配，营造清新甜美的氛围。'
     },
     images: [
-      'assets/images/flowers/juice-balcony1.jpg',
-      'assets/images/flowers/juice-balcony2.jpg'
+      '/assets/images/flowers/juice-balcony1.jpg',
+      '/assets/images/flowers/juice-balcony2.jpg'
     ]
   },
   {
@@ -138,8 +138,8 @@ export const flowersData = [
       match: '适合与红色或橙色花卉搭配，如红掌、天堂鸟，营造热烈的氛围。'
     },
     images: [
-     'assets/images/flowers/firebird-rose1.jpg',
-      'assets/images/flowers/firebird-rose2.jpg'
+     '/assets/images/flowers/firebird-rose1.jpg',
+      '/assets/images/flowers/firebird-rose2.jpg'
     ]
   },
   {
@@ -159,7 +159,7 @@ export const flowersData = [
       match: '适合与绿色观叶植物搭配，如龟背竹、绿萝，营造宁静的氛围。'
     },
     images: [
-      'assets/images/flowers/blue-gum1.jpg'
+      '/assets/images/flowers/blue-gum1.jpg'
     ]
   },
   {
@@ -179,8 +179,8 @@ export const flowersData = [
       match: '适合与绿色植物搭配，如绿萝、常春藤，营造宁静的氛围。'
     },
     images: [
-      'assets/images/flowers/evolvulus1.jpg',
-      'assets/images/flowers/evolvulus2.jpg'
+      '/assets/images/flowers/evolvulus1.jpg',
+      '/assets/images/flowers/evolvulus2.jpg'
     ]
   },
   {
@@ -200,8 +200,8 @@ export const flowersData = [
       match: '适合与紫色或蓝色花卉搭配，如薰衣草、蓝星花，营造神秘优雅的氛围。'
     },
     images: [
-     'assets/images/flowers/manta1.jpg',
-      'assets/images/flowers/manta2.jpg'
+     '/assets/images/flowers/manta1.jpg',
+      '/assets/images/flowers/manta2.jpg'
     ]
   },
   {
@@ -221,7 +221,7 @@ export const flowersData = [
       match: '适合与白色花卉搭配，如白玫瑰、百合，营造纯洁的氛围。'
     },
     images: [
-      'assets/images/flowers/jasmine1.jpg'
+      '/assets/images/flowers/jasmine1.jpg'
     ]
   },
   {
@@ -241,8 +241,8 @@ export const flowersData = [
       match: '适合与黄色或橙色花卉搭配，如向日葵、金盏花，营造明亮的氛围。'
     },
     images: [
-      'assets/images/flowers/lemon-juice-balcony1.jpg',
-      'assets/images/flowers/lemon-juice-balcony2.jpg'
+      '/assets/images/flowers/lemon-juice-balcony1.jpg',
+      '/assets/images/flowers/lemon-juice-balcony2.jpg'
     ]
   },
   {
@@ -262,8 +262,8 @@ export const flowersData = [
       match: '适合与红色或粉色花卉搭配，如红玫瑰、粉百合，营造浪漫的氛围。'
     },
     images: [
-      'assets/images/flowers/chocolate-bubble1.jpg',
-      'assets/images/flowers/chocolate-bubble2.jpg'
+      '/assets/images/flowers/chocolate-bubble1.jpg',
+      '/assets/images/flowers/chocolate-bubble2.jpg'
     ]
   },
   {
@@ -283,8 +283,8 @@ export const flowersData = [
       match: '适合与黄色或橙色花卉搭配，如向日葵、金盏花，营造明亮高贵的氛围。'
     },
     images: [
-      'assets/images/flowers/suffron1.jpg',
-      'assets/images/flowers/suffron2.jpg'
+      '/assets/images/flowers/suffron1.jpg',
+      '/assets/images/flowers/suffron2.jpg'
     ]
   },
   {
@@ -304,9 +304,9 @@ export const flowersData = [
       match: '适合与蓝色或紫色花卉搭配，如蓝星花、薰衣草，营造神秘冷静的氛围。'
     },
     images: [
-      'assets/images/flowers/crushed-ice-blue-rose1.jpg',
-      'assets/images/flowers/crushed-ice-blue-rose2.jpg',
-      'assets/images/flowers/crushed-ice-blue-rose3.jpg'
+      '/assets/images/flowers/crushed-ice-blue-rose1.jpg',
+      '/assets/images/flowers/crushed-ice-blue-rose2.jpg',
+      '/assets/images/flowers/crushed-ice-blue-rose3.jpg'
     ]
   },
   {
@@ -326,11 +326,11 @@ export const flowersData = [
       match: '适合与绿色植物搭配，如绿萝、常春藤，营造清新自然的氛围。'
     },
     images: [
-      'assets/images/flowers/hydrangea1.jpg',
-      'assets/images/flowers/hydrangea2.jpg',
-      'assets/images/flowers/hydrangea3.jpg',
-      'assets/images/flowers/hydrangea4.jpg',
-      'assets/images/flowers/hydrangea5.jpg'
+      '/assets/images/flowers/hydrangea1.jpg',
+      '/assets/images/flowers/hydrangea2.jpg',
+      '/assets/images/flowers/hydrangea3.jpg',
+      '/assets/images/flowers/hydrangea4.jpg',
+      '/assets/images/flowers/hydrangea5.jpg'
     ]
   },
   {
@@ -350,7 +350,7 @@ export const flowersData = [
       match: '适合与紫色或粉色花卉搭配，如薰衣草、粉玫瑰，营造浪漫的氛围。'
     },
     images: [
-      'assets/images/flowers/eustoma1.jpg'
+      '/assets/images/flowers/eustoma1.jpg'
     ]
   },
   {
@@ -370,11 +370,11 @@ export const flowersData = [
       match: '适合单支简洁包装，或混色郁金香做成花束。'
     },
     images: [
-      'assets/images/flowers/tulip1.jpg',
-      'assets/images/flowers/tulip2.jpg',
-      'assets/images/flowers/tulip3.jpg',
-      'assets/images/flowers/tulip4.jpg',
-      'assets/images/flowers/tulip5.jpg'
+      '/assets/images/flowers/tulip1.jpg',
+      '/assets/images/flowers/tulip2.jpg',
+      '/assets/images/flowers/tulip3.jpg',
+      '/assets/images/flowers/tulip4.jpg',
+      '/assets/images/flowers/tulip5.jpg'
     ]
   },
   {
@@ -394,7 +394,7 @@ export const flowersData = [
       match: '适合与紫色或蓝色花卉搭配，如薰衣草、蓝星花，营造神秘优雅的氛围。'
     },
     images: [
-      'assets/images/flowers/purple-spirit1.jpg'
+      '/assets/images/flowers/purple-spirit1.jpg'
     ]
   },
   {
@@ -414,7 +414,7 @@ export const flowersData = [
       match: '适合与红玫瑰、百合搭配，营造浪漫温馨的氛围。'
     },
     images: [
-      'assets/images/flowers/diana-rose1.jpg'
+      '/assets/images/flowers/diana-rose1.jpg'
     ]
   },
   {
@@ -434,7 +434,7 @@ export const flowersData = [
       match: '适合与向日葵、黄玫瑰搭配，增强活力和欢乐的氛围。'
     },
     images: [
-      'assets/images/flowers/sea-yellow1.jpg'
+      '/assets/images/flowers/sea-yellow1.jpg'
     ]
   },
   {
@@ -454,8 +454,8 @@ export const flowersData = [
       match: '适合与牡丹、樱花搭配，营造古典优雅的氛围。'
     },
     images: [
-      'assets/images/flowers/begonia1.jpg',
-      'assets/images/flowers/begonia2.jpg',
+      '/assets/images/flowers/begonia1.jpg',
+      '/assets/images/flowers/begonia2.jpg',
     ]
   },
   {
@@ -475,7 +475,7 @@ export const flowersData = [
       match: '适合与睡莲、水仙搭配，营造宁静祥和的氛围。'
     },
     images: [
-      'assets/images/flowers/lotus1.jpg'
+      '/assets/images/flowers/lotus1.jpg'
     ]
   },
   {
@@ -495,8 +495,8 @@ export const flowersData = [
       match: '适合与茶花、茉莉搭配，营造温柔宁静的氛围。'
     },
     images: [
-      'assets/images/flowers/tea-rose1.jpg',
-      'assets/images/flowers/tea-rose2.jpg'
+      '/assets/images/flowers/tea-rose1.jpg',
+      '/assets/images/flowers/tea-rose2.jpg'
     ]
   },
   {
@@ -516,7 +516,7 @@ export const flowersData = [
       match: '适合与百合、白玫瑰搭配，营造纯洁祥和的氛围。'
     },
     images: [
-      'assets/images/flowers/constance1.jpg'
+      '/assets/images/flowers/constance1.jpg'
     ]
   },
   {
@@ -536,7 +536,7 @@ export const flowersData = [
       match: '适合与紫罗兰、薰衣草搭配，营造宁静优雅的氛围。'
     },
     images: [
-      'assets/images/flowers/blue-star1.jpg'
+      '/assets/images/flowers/blue-star1.jpg'
     ]
   },
   {
@@ -556,8 +556,8 @@ export const flowersData = [
       match: '适合与薰衣草、紫丁香搭配，营造神秘高贵的氛围。'
     },
     images: [
-      'assets/images/flowers/lilica-rose1.jpg',
-      'assets/images/flowers/lilica-rose2.jpg'
+      '/assets/images/flowers/lilica-rose1.jpg',
+      '/assets/images/flowers/lilica-rose2.jpg'
     ]
   },
   {
@@ -577,8 +577,8 @@ export const flowersData = [
       match: '适合与玫瑰、雏菊搭配，营造英式花园的古典氛围。'
     },
     images: [
-      'assets/images/flowers/english-miss1.jpg',
-      'assets/images/flowers/english-miss2.jpg'
+      '/assets/images/flowers/english-miss1.jpg',
+      '/assets/images/flowers/english-miss2.jpg'
     ]
   },
   {
@@ -598,7 +598,7 @@ export const flowersData = [
       match: '适合与茉莉、白兰搭配，营造清新浪漫的氛围。'
     },
     images: [
-      'assets/images/flowers/gardenia1.jpg'
+      '/assets/images/flowers/gardenia1.jpg'
     ]
   }
 ];

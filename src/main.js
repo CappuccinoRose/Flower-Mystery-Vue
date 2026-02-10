@@ -2,7 +2,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 
-// 1. 引入样式系统
+// 引入样式系统
 import './assets/styles/variables.css'
 import './assets/styles/reset.css'
 import './assets/styles/layout.css'

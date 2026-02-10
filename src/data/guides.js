@@ -6,7 +6,7 @@ export const guidesData = [
     detail: '生日是表达祝福与关怀的最佳时机。可选择向日葵、百合、郁金香等充满阳光与美好寓意的花卉，给寿星带来一整年的好心情。',
     icon: 'gift',
     tags: ['生日', '祝福'],
-    image: 'assets/images/guides/birthday.png'
+    image: '/assets/images/guides/birthday.png'
   },
   {
     id: 'love',
@@ -15,7 +15,7 @@ export const guidesData = [
     detail: '在情人节、纪念日或表白时刻，红玫瑰永远是表达爱意的经典选择。也可以搭配粉玫瑰、郁金香，增添浪漫氛围。',
     icon: 'heart',
     tags: ['爱情', '浪漫'],
-    image: 'assets/images/guides/love.png'
+    image: '/assets/images/guides/love.png'
   },
   {
     id: 'wishing',
@@ -24,7 +24,7 @@ export const guidesData = [
     detail: '在母亲节、教师节、春节等节日，用康乃馨、百合、菊花等表达感恩和祝福，既传统又充满温情。',
     icon: 'smile',
     tags: ['感恩', '祝福'],
-    image: 'assets/images/guides/wishing.png'
+    image: '/assets/images/guides/wishing.png'
   },
   {
     id: 'comfort',
@@ -33,7 +33,7 @@ export const guidesData = [
     detail: '探病时宜选择色泽淡雅、香气不过于浓烈的花材，如百合、剑兰、康乃馨，传递温暖与关心。',
     icon: 'sun',
     tags: ['慰问', '清新'],
-    image: 'assets/images/guides/comfort.png'
+    image: '/assets/images/guides/comfort.png'
   },
   {
     id: 'wedding',
@@ -42,7 +42,7 @@ export const guidesData = [
     detail: '婚礼现场适合使用玫瑰、百合、绣球等色彩明亮、寓意美好的花材，营造浪漫而庄重的氛围。',
     icon: 'heart',
     tags: ['婚礼', '浪漫'],
-    image: 'assets/images/guides/wedding.png'
+    image: '/assets/images/guides/wedding.png'
   },
   {
     id: 'housewarming',
@@ -51,7 +51,7 @@ export const guidesData = [
     detail: '乔迁时可送盆栽或花束，如发财树、富贵竹、牡丹、剑兰，寓意富贵吉祥、家庭和睦。',
     icon: 'home',
     tags: ['祝福', '清新'],
-    image: 'assets/images/guides/housewarming.png'
+    image: '/assets/images/guides/housewarming.png'
   },
   {
     id: 'graduation',
@@ -60,7 +60,7 @@ export const guidesData = [
     detail: '毕业适合送向日葵、百合、郁金香，象征阳光、希望与美好未来。',
     icon: 'book',
     tags: ['祝福', '清新'],
-    image: 'assets/images/guides/graduation.png'
+    image: '/assets/images/guides/graduation.png'
   },
   {
     id: 'anniversary',
@@ -69,7 +69,7 @@ export const guidesData = [
     detail: '结婚纪念日、入职纪念日等适合送玫瑰、百合、郁金香等，表达珍惜与祝福。',
     icon: 'star',
     tags: ['浪漫', '祝福'],
-    image: 'assets/images/guides/anniversary.png'
+    image: '/assets/images/guides/anniversary.png'
   },
   {
     id: 'friendship',
@@ -78,7 +78,7 @@ export const guidesData = [
     detail: '送给好友可选择向日葵、满天星、非洲菊等，象征阳光、真诚与友谊长存。',
     icon: 'users',
     tags: ['友情', '清新'],
-    image: 'assets/images/guides/friendship.png'
+    image: '/assets/images/guides/friendship.png'
   },
   {
     id: 'apology',
@@ -87,7 +87,7 @@ export const guidesData = [
     detail: '道歉时可选择黄玫瑰、白百合等，表达真诚、悔意与希望重归于好的愿望。',
     icon: 'message-circle',
     tags: ['道歉', '清新'],
-    image: 'assets/images/guides/apology.png'
+    image: '/assets/images/guides/apology.png'
   },
   {
     id: 'thanksgiving',
@@ -96,7 +96,7 @@ export const guidesData = [
     detail: '表达感谢适合用百合、康乃馨、向日葵等，象征感激、敬意与真诚。',
     icon: 'heart',
     tags: ['感恩', '祝福'],
-    image: 'assets/images/guides/thanksgiving.png'
+    image: '/assets/images/guides/thanksgiving.png'
   },
   {
     id: 'sympathy',
@@ -105,6 +105,6 @@ export const guidesData = [
     detail: '悼念场合宜选择白玫瑰、白百合、菊花等素色花卉，表达怀念与哀悼。',
     icon: 'moon',
     tags: ['哀思', '清新'],
-    image: 'assets/images/guides/sympathy.png'
+    image: '/assets/images/guides/sympathy.png'
   }
 ];
